@@ -1,0 +1,111 @@
+Id,Label,Attribute
+vomiting,vomiting,Symptom
+shortness of breath,shortness of breath,Symptom
+facial paresis,facial paresis,Symptom
+sore to touch,sore to touch,Symptom
+hypertonicity,hypertonicity,Symptom
+hypoalbuminemia,hypoalbuminemia,Symptom
+gastritis,gastritis,Disease
+dehydration,dehydration,Disease
+hypothyroidism,hypothyroidism,Disease
+hernia hiatal,hernia hiatal,Disease
+tricuspid valve insufficiency,tricuspid valve insufficiency,Disease
+malignant tumor of colon,malignant tumor of colon,Disease
+thrombus,thrombus,Disease
+chronic kidney failure,chronic kidney failure,Disease
+tachycardia sinus,tachycardia sinus,Disease
+hepatitis,hepatitis,Disease
+adhesion,adhesion,Disease
+biliary calculus,biliary calculus,Disease
+diverticulitis,diverticulitis,Disease
+spasm bronchial,spasm bronchial,Disease
+ulcer peptic,ulcer peptic,Disease
+pyelonephritis,pyelonephritis,Disease
+pancreatitis,pancreatitis,Disease
+cholelithiasis,cholelithiasis,Disease
+carcinoma colon,carcinoma colon,Disease
+mitral valve insufficiency,mitral valve insufficiency,Disease
+colitis,colitis,Disease
+ketoacidosis diabetic,ketoacidosis diabetic,Disease
+bacteremia,bacteremia,Disease
+melanoma,melanoma,Disease
+diabetes,diabetes,Disease
+migraine disorders,migraine disorders,Disease
+influenza,influenza,Disease
+hypercholesterolemia,hypercholesterolemia,Disease
+insufficiency renal,insufficiency renal,Disease
+hypothyroidism,hypothyroidism,Disease
+fibroid tumor,fibroid tumor,Disease
+chronic alcoholic intoxication,chronic alcoholic intoxication,Disease
+asthma,asthma,Disease
+failure heart,failure heart,Disease
+embolism pulmonary,embolism pulmonary,Disease
+tricuspid valve insufficiency,tricuspid valve insufficiency,Disease
+respiratory failure,respiratory failure,Disease
+anemia,anemia,Disease
+chronic obstructive airway disease,chronic obstructive airway disease,Disease
+sickle cell anemia,sickle cell anemia,Disease
+coronary arteriosclerosis,coronary arteriosclerosis,Disease
+thrombus,thrombus,Disease
+chronic kidney failure,chronic kidney failure,Disease
+myocardial infarction,myocardial infarction,Disease
+obesity,obesity,Disease
+tachycardia sinus,tachycardia sinus,Disease
+failure kidney,failure kidney,Disease
+paroxysmal dyspnea,paroxysmal dyspnea,Disease
+pericardial effusion body substance,pericardial effusion body substance,Disease
+adhesion,adhesion,Disease
+endocarditis,endocarditis,Disease
+spasm bronchial,spasm bronchial,Disease
+primary carcinoma of the liver cells,primary carcinoma of the liver cells,Disease
+cardiomyopathy,cardiomyopathy,Disease
+edema pulmonary,edema pulmonary,Disease
+mitral valve insufficiency,mitral valve insufficiency,Disease
+peripheral vascular disease,peripheral vascular disease,Disease
+effusion pericardial,effusion pericardial,Disease
+failure heart congestive,failure heart congestive,Disease
+ischemia,ischemia,Disease
+hypertension pulmonary,hypertension pulmonary,Disease
+deep vein thrombosis,deep vein thrombosis,Disease
+hyperlipidemia,hyperlipidemia,Disease
+pneumonia,pneumonia,Disease
+stenosis aortic valve,stenosis aortic valve,Disease
+hypertensive disease,hypertensive disease,Disease
+bronchitis,bronchitis,Disease
+upper respiratory infection,upper respiratory infection,Disease
+coronary heart disease,coronary heart disease,Disease
+carcinoma of lung,carcinoma of lung,Disease
+arthritis,arthritis,Disease
+malignant neoplasm of lung,malignant neoplasm of lung,Disease
+diabetes,diabetes,Disease
+overload fluid,overload fluid,Disease
+transient ischemic attack,transient ischemic attack,Disease
+aphasia,aphasia,Disease
+thrombus,thrombus,Disease
+Alzheimer's disease,Alzheimer's disease,Disease
+pericardial effusion body substance,pericardial effusion body substance,Disease
+accident cerebrovascular,accident cerebrovascular,Disease
+hemiparesis,hemiparesis,Disease
+effusion pericardial,effusion pericardial,Disease
+parkinson disease,parkinson disease,Disease
+dementia,dementia,Disease
+gastritis,gastritis,Disease
+hernia hiatal,hernia hiatal,Disease
+ileus,ileus,Disease
+thrombus,thrombus,Disease
+gout,gout,Disease
+hyperglycemia,hyperglycemia,Disease
+biliary calculus,biliary calculus,Disease
+cirrhosis,cirrhosis,Disease
+diverticulitis,diverticulitis,Disease
+osteomyelitis,osteomyelitis,Disease
+pancreatitis,pancreatitis,Disease
+cholelithiasis,cholelithiasis,Disease
+peripheral vascular disease,peripheral vascular disease,Disease
+cellulitis,cellulitis,Disease
+gastroenteritis,gastroenteritis,Disease
+hernia,hernia,Disease
+carcinoma,carcinoma,Disease
+thrombus,thrombus,Disease
+thrombus,thrombus,Disease
+bacteremia,bacteremia,Disease

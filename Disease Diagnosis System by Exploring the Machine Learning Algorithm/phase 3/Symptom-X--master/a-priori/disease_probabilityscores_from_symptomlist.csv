@@ -1,0 +1,9 @@
+Symptomlist
+vomiting,nausea,intoxication,pain
+Disease,Probability scores
+pyelonephritis,75.0
+pancreatitis,75.0
+gastritis,100.0
+tricuspid valve insufficiency,75.0
+biliary calculus,75.0
+colitis,75.0
